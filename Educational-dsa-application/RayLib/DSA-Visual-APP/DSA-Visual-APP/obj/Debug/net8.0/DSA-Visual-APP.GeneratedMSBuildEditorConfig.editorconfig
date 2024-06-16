@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DSA_Visual_APP
-build_property.ProjectDir = C:\Users\ardx3\Documents\GitHub\Educational-DSA-Application\Educational-dsa-application\RayLib\DSA-Visual-APP\DSA-Visual-APP\
+build_property.ProjectDir = /Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

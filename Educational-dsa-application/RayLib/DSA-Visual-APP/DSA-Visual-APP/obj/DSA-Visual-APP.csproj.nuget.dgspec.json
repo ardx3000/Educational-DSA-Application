@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ardx3\\Documents\\GitHub\\Educational-DSA-Application\\Educational-dsa-application\\RayLib\\DSA-Visual-APP\\DSA-Visual-APP\\DSA-Visual-APP.csproj": {}
+    "/Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/DSA-Visual-APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ardx3\\Documents\\GitHub\\Educational-DSA-Application\\Educational-dsa-application\\RayLib\\DSA-Visual-APP\\DSA-Visual-APP\\DSA-Visual-APP.csproj": {
+    "/Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/DSA-Visual-APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ardx3\\Documents\\GitHub\\Educational-DSA-Application\\Educational-dsa-application\\RayLib\\DSA-Visual-APP\\DSA-Visual-APP\\DSA-Visual-APP.csproj",
+        "projectUniqueName": "/Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/DSA-Visual-APP.csproj",
         "projectName": "DSA-Visual-APP",
-        "projectPath": "C:\\Users\\ardx3\\Documents\\GitHub\\Educational-DSA-Application\\Educational-dsa-application\\RayLib\\DSA-Visual-APP\\DSA-Visual-APP\\DSA-Visual-APP.csproj",
-        "packagesPath": "C:\\Users\\ardx3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ardx3\\Documents\\GitHub\\Educational-DSA-Application\\Educational-dsa-application\\RayLib\\DSA-Visual-APP\\DSA-Visual-APP\\obj\\",
+        "projectPath": "/Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/DSA-Visual-APP.csproj",
+        "packagesPath": "/Users/abdullayousufdaniel/.nuget/packages/",
+        "outputPath": "/Users/abdullayousufdaniel/Projects/Educational-DSA-Application/Educational-dsa-application/RayLib/DSA-Visual-APP/DSA-Visual-APP/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ardx3\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/abdullayousufdaniel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
